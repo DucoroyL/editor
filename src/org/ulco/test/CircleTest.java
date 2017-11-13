@@ -1,9 +1,9 @@
 package org.ulco.test;
 
 import junit.framework.TestCase;
+import org.ulco.Circle;
 import org.ulco.GraphicsObject;
 import org.ulco.Point;
-import org.ulco.Circle;
 
 public class CircleTest extends TestCase {
 
